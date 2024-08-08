@@ -274,7 +274,7 @@ nav {
 }
 
 .service__container .section__header::before {
-  content: "Service";
+  content: "Services";
 }
 
 .service__container .section__description {
